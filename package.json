@@ -1,0 +1,13 @@
+{
+  "name": "simple-peerjs-server",
+  "version": "1.0",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "peerjs --port 3001"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
